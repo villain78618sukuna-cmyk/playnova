@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "297014627389",
+    "project_id": "play-nova",
+    "storage_bucket": "play-nova.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297014627389:android:e62be4b1e93338243aee54",
+        "android_client_info": {
+          "package_name": "Com.explain.playnova"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIsY70zYhnfRB8-baV61Ahdmo81Hej9fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297014627389:android:302a2b3d28c27ebe3aee54",
+        "android_client_info": {
+          "package_name": "com.playnova.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIsY70zYhnfRB8-baV61Ahdmo81Hej9fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
